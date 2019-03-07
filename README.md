@@ -2,7 +2,7 @@
 
 ## Necessary packages
 
-The python packages required to run this project are given in `requirements.txt`.
+The python packages required to run this project are given in `requirements.txt`. Also, you need to install `graphviz` in order to visualize the decision tree
 
 ## Running the code
 
